@@ -121,7 +121,6 @@ Assignment1/
    - Double-check your documentation for clarity and completeness.
    - Verify that all generated images are saved in the correct folder.
 
-> **Submission Reminder:** Draft your documentation in `DOCUMENTATION.md` using the provided template. Before submitting the assignment, copy that file into `README.md` so your final write-up appears here. `BRIEF.md` is for your reference and should be left unchanged.
 ---
 
 ## Inspiration
@@ -350,14 +349,8 @@ plt.show()
 
 ---
 
-**Notes**:
+## Contact
 
-- **Optional Bonus**: Integrating `skimage` or `OpenCV` is optional and will be considered for bonus points if applicable.
-- **Understanding is Key**: Ensure that if you choose to use these advanced libraries, you understand how they work and can explain their usage in your documentation.
-- **Additional Dependencies**: If you use `skimage` or `OpenCV`, update the installation instructions and dependencies in your `DOCUMENTATION.md` and ensure all dependencies are documented.
-
-If you have any further questions or need clarification, don't hesitate to reach out.
-
-**Good luck with your assignment, and happy coding!**
+If you have any questions or need clarification, please reach out to your instructor.
 
 ---
