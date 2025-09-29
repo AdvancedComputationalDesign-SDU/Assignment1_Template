@@ -69,14 +69,15 @@ pip install numpy matplotlib
 Assignment1/
 ├── README.md
 ├── pattern_generator.py
-├── DOCUMENTATION.md
+├── TEMPLATE.md
+├── BRIEF.md
 ├── images/
 │   └── (Your generated images go here)
 ```
 
-- `README.md`: This file, containing an overview and instructions.
+- `README.md`: This file; update this file with your assignment write-up.
 - `pattern_generator.py`: The Python script where you will write your code.
-- `DOCUMENTATION.md`: Markdown file for your pseudo-code and technical explanations.
+- `TEMPLATE.md`: Markdown fil template for your pseudo-code and technical explanations.
 - `images/`: Directory to save your generated images.
 
 ---
@@ -110,7 +111,7 @@ Assignment1/
 
 6. **Document Your Work**
 
-   - Open `DOCUMENTATION.md`.
+   - Open `TEMPLATE.md`.
    - Write your pseudo-code outlining the logic of your program.
    - Provide a technical explanation (max 300 words) of your transformations.
    - Include any output images or diagrams (optional) in your submission.
@@ -300,14 +301,14 @@ plt.show()
 
 - **What to Submit**:
   - Updated `pattern_generator.py` with your code.
-  - Completed `DOCUMENTATION.md` with pseudo-code and explanations.
+  - Completed `README.md` with pseudo-code and explanations.
   - Generated images in the `images/` folder.
   - Ensure all changes are committed and pushed to your GitHub repository.
 
 - **Submission Checklist**:
     - [ ] `pattern_generator.py` is implemented and the code runs without errors.
     - [ ] The code is well-commented, explaining each major step.
-    - [ ] `DOCUMENTATION.md` is filled out completely.
+    - [ ] `README.md` is filled out completely.
     - [ ] Generated images are saved in the `images/` folder and referenced in your documentation if needed.
     - [ ] All changes are committed with meaningful messages.
     - [ ] All commits are pushed to your GitHub repository.
@@ -333,7 +334,7 @@ plt.show()
   - Proper repository structure.
 
 - **Documentation**
-  - Well-formatted `DOCUMENTATION.md` using Markdown.
+  - Well-formatted `README.md` using Markdown.
   - Inclusion of images and diagrams where appropriate.
 
 ---
